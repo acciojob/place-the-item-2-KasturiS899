@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row;
+}
 .green{
 	height:100px;
 	width:100px;
